@@ -1,4 +1,4 @@
-    geheimzahl = 123
+    geheimzahl = 15
     eingabe = 0
     zaehler = 0
 
