@@ -1,4 +1,4 @@
-    geheimzahl = 1337
+    geheimzahl = 123
     eingabe = 0
     zaehler = 0
 
